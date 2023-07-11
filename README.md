@@ -13,8 +13,12 @@ mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
 
 ## My workbench
 ### Tools I use :art:
-<div style="justify-content: center;">
-    
+<div>
+    <p>1</p>
+    <p>2</p>
+    <p>3</p>
+    <p>4</p>
+    <p>5</p>
 </div>
 
 ## You can reach me by...
