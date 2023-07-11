@@ -13,7 +13,7 @@ mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
 
 ## My workbench
 ### Tools I use :art:
-<div>
+<div align="center">
     <p>1</p>
     <p>2</p>
     <p>3</p>
