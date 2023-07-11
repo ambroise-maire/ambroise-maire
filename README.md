@@ -14,18 +14,18 @@ mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
 ## My workbench
 ### Tools I use :art:
 <div align="center">
-    <p>front</p>
-    <img src="./assets/html.webp" alt="HTML5">
-    <img src="./assets/css.webp" alt="CSS3">
-    <img src="./assets/javascript.webp" alt="JavaScript">
-    <img src="./assets/npm.webp" alt="NPM">
-    <img src="./assets/babel.webp" alt="Babel">
-    <img src="./assets/webpack.webp" alt="Webpack">
-    <img src="./assets/sass.webp" alt="Sass">
-    <p>back</p>
-    <img src="./assets/php.webp" alt="PHP 8">
-    <img src="./assets/sql.webp" alt="SQL">
-    <img src="./assets/mysql.webp" alt="MySQL">
+    <p>Front End</p>
+    <img src="./assets/html.webp" alt="HTML5" height="40" width="52">
+    <img src="./assets/css.webp" alt="CSS3" height="40" width="52">
+    <img src="./assets/javascript.webp" alt="JavaScript" height="40" width="52">
+    <img src="./assets/npm.webp" alt="NPM" height="40" width="52">
+    <img src="./assets/babel.webp" alt="Babel" height="40" width="52">
+    <img src="./assets/webpack.webp" alt="Webpack" height="40" width="52">
+    <img src="./assets/sass.webp" alt="Sass" height="40" width="52">
+    <p>Back End</p>
+    <img src="./assets/php.webp" alt="PHP 8" height="40" width="52">
+    <img src="./assets/sql.webp" alt="SQL" height="40" width="52">
+    <img src="./assets/mysql.webp" alt="MySQL" height="40" width="52">
 </div>
 
 ## You can reach me by...
