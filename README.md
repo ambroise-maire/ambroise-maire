@@ -11,6 +11,6 @@ I created a general bot in my private discord server (repo on github soon), and 
 mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
 
 ## You can reach me by...
-[LinkedIn](https://www.linkedin.com/in/ambroise-maire/)https://www.linkedin.com/in/ambroise-maire/)
+[LinkedIn](https://www.linkedin.com/in/ambroise-maire/)
 or
 [my mail](ambroise.maire7@gmail.com)
