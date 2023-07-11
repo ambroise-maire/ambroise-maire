@@ -14,3 +14,5 @@ mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
 [LinkedIn](https://www.linkedin.com/in/ambroise-maire/)
 or
 [my mail](ambroise.maire7@gmail.com)
+
+🛠️
