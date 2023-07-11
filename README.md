@@ -27,9 +27,9 @@ mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
     <img src="./assets/babel.webp" alt="Babel" height="60">&emsp;
     <img src="./assets/webpack.webp" alt="Webpack" height="60">&emsp;
     <img src="./assets/sass.webp" alt="Sass" height="60">&emsp;
-    <img src="./assets/mysql.webp" alt="MySQL" height="60">
-    <img src="./assets/Tailwind_CSS_Logo.webp" alt="Tailwind CSS">
-    <img src="./assets/composer.webp" alt="Composer">
+    <img src="./assets/mysql.webp" alt="MySQL" height="60">&emsp;
+    <img src="./assets/Tailwind_CSS_Logo.webp" alt="Tailwind CSS" height="60">&emsp;
+    <img src="./assets/composer.webp" alt="Composer" height="60">
 </div>
 
 ## You can reach me by...
