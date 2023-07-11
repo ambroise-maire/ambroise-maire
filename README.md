@@ -14,11 +14,18 @@ mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
 ## My workbench
 ### Tools I use :art:
 <div align="center">
-    <p>1</p>
-    <p>2</p>
-    <p>3</p>
-    <p>4</p>
-    <p>5</p>
+    <p>front</p>
+    <img src="./assets/html.webp" alt="HTML5">
+    <img src="./assets/css.webp" alt="CSS3">
+    <img src="./assets/javascript.webp" alt="JavaScript">
+    <img src="./assets/npm.webp" alt="NPM">
+    <img src="./assets/babel.webp" alt="Babel">
+    <img src="./assets/webpack.webp" alt="Webpack">
+    <img src="./assets/sass.webp" alt="Sass">
+    <p>back</p>
+    <img src="./assets/php.webp" alt="PHP 8">
+    <img src="./assets/sql.webp" alt="SQL">
+    <img src="./assets/mysql.webp" alt="MySQL">
 </div>
 
 ## You can reach me by...
