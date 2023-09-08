@@ -17,27 +17,28 @@ mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
     <img src="./assets/html.webp" alt="HTML5" height="60">&emsp;
     <img src="./assets/css.webp" alt="CSS3" height="60">&emsp;
     <img src="./assets/javascript.webp" alt="JavaScript" height="60">
+    <img src="./assets/php.webp" alt="PHP 8" height="60">&emsp;
+    <img src="./assets/mysql.webp" alt="MySQL" height="60">&emsp;
 </div>
 
 ### My Tools 🛠️
 <div>
+    <img src="./assets/nodejs.webp" alt="NodeJS" height="60">&emsp;
     <img src="./assets/npm.webp" alt="NPM" height="60">&emsp;
     <img src="./assets/babel.webp" alt="Babel" height="60">&emsp;
     <img src="./assets/webpack.webp" alt="Webpack" height="60">&emsp;
     <img src="./assets/sass.webp" alt="Sass" height="60">
-
+    <img src="./assets/docker.webp" alt="Docker" height="60">
 </div>
 
 ### Tools and languages I have to work 🚧
 <div>
-    <img src="./assets/php.webp" alt="PHP 8" height="60">&emsp;
-    <img src="./assets/sql.webp" alt="SQL" height="60">&emsp;
-    <img src="./assets/mysql.webp" alt="MySQL" height="60">&emsp;
-    <img src="./assets/Tailwind_CSS_Logo.webp" alt="Tailwind CSS" height="60">&emsp;
     <img src="./assets/composer.webp" alt="Composer" height="60">
+    <img src="./assets/reactjs.webp" alt="ReactJS" height="60">
 </div>
 
 ## You can reach me by...
+
 [LinkedIn](https://www.linkedin.com/in/ambroise-maire/)
 or
 [my mail](ambroise.maire7@gmail.com).
