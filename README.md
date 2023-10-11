@@ -34,7 +34,7 @@ mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
 ### Tools and languages I have to work 🚧
 <div>
     <img src="./assets/composer.webp" alt="Composer" height="60">
-    <img src="./assets/reactjs.webp" alt="ReactJS" height="60">
+    <img src="./assets/angular.webp" alt="Angular" height="60">
 </div>
 
 ## You can reach me by...
